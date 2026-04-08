@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Maryam 👋
 
-<!--
-**maryammohammadrezaei2/maryammohammadrezaei2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Front-End Developer based in Canada 🇨🇦
 
-Here are some ideas to get you started:
+## 💻 About Me
+- Passionate about building clean and responsive websites
+- Focused on Front-End Development and UI Design
+- Currently improving my skills and building real-world projects
+- Looking for Junior Front-End opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- WordPress (Elementor)
+- Basic SEO
+- Git & GitHub
+- Figma
+
+## 📂 Projects
+### 🌐 Portfolio Website
+Personal portfolio website to showcase my skills and projects  
+🔗 Live Demo:  
+https://maryammohammadrezaei2.github.io/portfolio-website/
+
+## 📫 Connect With Me
+- GitHub: https://github.com/maryammohammadrezaei2
+- Portfolio: https://maryammohammadrezaei2.github.io/portfolio-website/
+- LinkedIn: (add your link here)
